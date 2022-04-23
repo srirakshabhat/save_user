@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">baatu</string>
+    <string name="pls_connect_to_internet">Please Connect to Internet</string>
+    <string name="assignment">Assignment</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+    <string name="unsuccessful">Unsuccessful</string>
+    <string name="successful">Successful</string>
+
+</resources>
